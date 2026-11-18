@@ -1,0 +1,452 @@
+{
+  "Checking or savings account": [
+    {
+      "term": "bank",
+      "weight": 6.1386
+    },
+    {
+      "term": "account",
+      "weight": 5.2969
+    },
+    {
+      "term": "checking",
+      "weight": 3.9204
+    },
+    {
+      "term": "deposit",
+      "weight": 3.7995
+    },
+    {
+      "term": "branch",
+      "weight": 3.6408
+    },
+    {
+      "term": "funds",
+      "weight": 3.5379
+    },
+    {
+      "term": "chase",
+      "weight": 3.3563
+    },
+    {
+      "term": "debit",
+      "weight": 3.3365
+    },
+    {
+      "term": "overdraft",
+      "weight": 3.179
+    },
+    {
+      "term": "debit card",
+      "weight": 3.0824
+    },
+    {
+      "term": "check",
+      "weight": 3.0151
+    },
+    {
+      "term": "money",
+      "weight": 3.0037
+    }
+  ],
+  "Credit card": [
+    {
+      "term": "card",
+      "weight": 10.9683
+    },
+    {
+      "term": "credit card",
+      "weight": 5.9545
+    },
+    {
+      "term": "capital",
+      "weight": 3.8786
+    },
+    {
+      "term": "cards",
+      "weight": 3.3766
+    },
+    {
+      "term": "credit",
+      "weight": 3.2969
+    },
+    {
+      "term": "charges",
+      "weight": 2.8549
+    },
+    {
+      "term": "express",
+      "weight": 2.7869
+    },
+    {
+      "term": "synchrony",
+      "weight": 2.7279
+    },
+    {
+      "term": "american express",
+      "weight": 2.7009
+    },
+    {
+      "term": "citi",
+      "weight": 2.3318
+    },
+    {
+      "term": "limit",
+      "weight": 2.2066
+    },
+    {
+      "term": "late",
+      "weight": 2.1802
+    }
+  ],
+  "Credit reporting": [
+    {
+      "term": "equifax",
+      "weight": 4.6871
+    },
+    {
+      "term": "report",
+      "weight": 4.4538
+    },
+    {
+      "term": "experian",
+      "weight": 4.1747
+    },
+    {
+      "term": "credit",
+      "weight": 4.1286
+    },
+    {
+      "term": "transunion",
+      "weight": 3.9094
+    },
+    {
+      "term": "inquiries",
+      "weight": 3.6714
+    },
+    {
+      "term": "reporting",
+      "weight": 3.602
+    },
+    {
+      "term": "accounts",
+      "weight": 3.4296
+    },
+    {
+      "term": "items",
+      "weight": 2.8568
+    },
+    {
+      "term": "remove",
+      "weight": 2.7824
+    },
+    {
+      "term": "bureaus",
+      "weight": 2.3958
+    },
+    {
+      "term": "credit report",
+      "weight": 2.2923
+    }
+  ],
+  "Debt collection": [
+    {
+      "term": "debt",
+      "weight": 9.1502
+    },
+    {
+      "term": "collection",
+      "weight": 5.4297
+    },
+    {
+      "term": "owe",
+      "weight": 3.0915
+    },
+    {
+      "term": "collect",
+      "weight": 2.9376
+    },
+    {
+      "term": "collections",
+      "weight": 2.4736
+    },
+    {
+      "term": "midland",
+      "weight": 2.3614
+    },
+    {
+      "term": "calls",
+      "weight": 2.0574
+    },
+    {
+      "term": "agency",
+      "weight": 1.9523
+    },
+    {
+      "term": "credit",
+      "weight": 1.922
+    },
+    {
+      "term": "calling",
+      "weight": 1.8887
+    },
+    {
+      "term": "company",
+      "weight": 1.8824
+    },
+    {
+      "term": "medical",
+      "weight": 1.864
+    }
+  ],
+  "Money transfer": [
+    {
+      "term": "paypal",
+      "weight": 7.8674
+    },
+    {
+      "term": "money",
+      "weight": 6.6846
+    },
+    {
+      "term": "coinbase",
+      "weight": 5.5368
+    },
+    {
+      "term": "transfer",
+      "weight": 4.7189
+    },
+    {
+      "term": "venmo",
+      "weight": 4.3589
+    },
+    {
+      "term": "funds",
+      "weight": 3.9438
+    },
+    {
+      "term": "transaction",
+      "weight": 3.8005
+    },
+    {
+      "term": "wire",
+      "weight": 3.7363
+    },
+    {
+      "term": "app",
+      "weight": 2.9965
+    },
+    {
+      "term": "bank",
+      "weight": 2.6429
+    },
+    {
+      "term": "scam",
+      "weight": 2.6327
+    },
+    {
+      "term": "account",
+      "weight": 2.4732
+    }
+  ],
+  "Mortgage": [
+    {
+      "term": "mortgage",
+      "weight": 13.1861
+    },
+    {
+      "term": "home",
+      "weight": 5.5576
+    },
+    {
+      "term": "escrow",
+      "weight": 4.9046
+    },
+    {
+      "term": "modification",
+      "weight": 4.8623
+    },
+    {
+      "term": "loan",
+      "weight": 4.105
+    },
+    {
+      "term": "property",
+      "weight": 3.8682
+    },
+    {
+      "term": "ocwen",
+      "weight": 3.7474
+    },
+    {
+      "term": "foreclosure",
+      "weight": 3.3034
+    },
+    {
+      "term": "cooper",
+      "weight": 3.298
+    },
+    {
+      "term": "house",
+      "weight": 3.1111
+    },
+    {
+      "term": "closing",
+      "weight": 2.9412
+    },
+    {
+      "term": "insurance",
+      "weight": 2.9371
+    }
+  ],
+  "Payday or personal loan": [
+    {
+      "term": "loan",
+      "weight": 8.1987
+    },
+    {
+      "term": "affirm",
+      "weight": 3.807
+    },
+    {
+      "term": "main",
+      "weight": 3.112
+    },
+    {
+      "term": "line credit",
+      "weight": 2.913
+    },
+    {
+      "term": "company",
+      "weight": 2.8488
+    },
+    {
+      "term": "payday",
+      "weight": 2.7373
+    },
+    {
+      "term": "upstart",
+      "weight": 2.6338
+    },
+    {
+      "term": "finance",
+      "weight": 2.3576
+    },
+    {
+      "term": "onemain",
+      "weight": 2.2764
+    },
+    {
+      "term": "pay",
+      "weight": 2.2502
+    },
+    {
+      "term": "lending",
+      "weight": 2.1928
+    },
+    {
+      "term": "personal loan",
+      "weight": 2.1567
+    }
+  ],
+  "Student loan": [
+    {
+      "term": "navient",
+      "weight": 11.0428
+    },
+    {
+      "term": "loans",
+      "weight": 6.8261
+    },
+    {
+      "term": "student",
+      "weight": 6.4372
+    },
+    {
+      "term": "loan",
+      "weight": 5.6635
+    },
+    {
+      "term": "nelnet",
+      "weight": 5.4134
+    },
+    {
+      "term": "student loan",
+      "weight": 4.3915
+    },
+    {
+      "term": "school",
+      "weight": 3.4831
+    },
+    {
+      "term": "forbearance",
+      "weight": 3.1578
+    },
+    {
+      "term": "repayment",
+      "weight": 3.1236
+    },
+    {
+      "term": "payments",
+      "weight": 2.9627
+    },
+    {
+      "term": "student loans",
+      "weight": 2.7055
+    },
+    {
+      "term": "sallie mae",
+      "weight": 2.6508
+    }
+  ],
+  "Vehicle loan or lease": [
+    {
+      "term": "car",
+      "weight": 8.4087
+    },
+    {
+      "term": "vehicle",
+      "weight": 7.8545
+    },
+    {
+      "term": "auto",
+      "weight": 4.7891
+    },
+    {
+      "term": "auto loan",
+      "weight": 3.7894
+    },
+    {
+      "term": "financial",
+      "weight": 3.6742
+    },
+    {
+      "term": "santander",
+      "weight": 3.601
+    },
+    {
+      "term": "loan",
+      "weight": 3.496
+    },
+    {
+      "term": "ally",
+      "weight": 3.4638
+    },
+    {
+      "term": "lease",
+      "weight": 3.2679
+    },
+    {
+      "term": "payment",
+      "weight": 3.0026
+    },
+    {
+      "term": "finance",
+      "weight": 2.9934
+    },
+    {
+      "term": "repossession",
+      "weight": 2.7921
+    }
+  ]
+}

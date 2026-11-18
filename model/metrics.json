@@ -1,0 +1,52 @@
+{
+  "best_model": "Logistic Regression",
+  "generated_at_utc": "2026-11-18T04:31:55+00:00",
+  "dataset_rows": 16662,
+  "train_rows": 13329,
+  "test_rows": 3333,
+  "n_features": 60000,
+  "labels": [
+    "Checking or savings account",
+    "Credit card",
+    "Credit reporting",
+    "Debt collection",
+    "Money transfer",
+    "Mortgage",
+    "Payday or personal loan",
+    "Student loan",
+    "Vehicle loan or lease"
+  ],
+  "display_names": {
+    "Checking or savings account": "Checking / Savings",
+    "Credit card": "Credit Card",
+    "Credit reporting": "Credit Reporting",
+    "Debt collection": "Debt Collection",
+    "Money transfer": "Money Transfer",
+    "Mortgage": "Mortgage",
+    "Payday or personal loan": "Payday / Personal Loan",
+    "Student loan": "Student Loan",
+    "Vehicle loan or lease": "Vehicle Loan / Lease"
+  },
+  "models": [
+    {
+      "model": "Logistic Regression",
+      "accuracy": 0.7941794179417941,
+      "precision_weighted": 0.7968801424637956,
+      "recall_weighted": 0.7941794179417941,
+      "f1_weighted": 0.7949023515549252,
+      "precision_macro": 0.7511878405617609,
+      "recall_macro": 0.7734889598842974,
+      "f1_macro": 0.7611104887116764
+    },
+    {
+      "model": "Multinomial Naive Bayes",
+      "accuracy": 0.7584758475847585,
+      "precision_weighted": 0.752480576384986,
+      "recall_weighted": 0.7584758475847585,
+      "f1_weighted": 0.746385658765442,
+      "precision_macro": 0.7044509130769832,
+      "recall_macro": 0.6330758287865765,
+      "f1_macro": 0.6524366765773523
+    }
+  ]
+}

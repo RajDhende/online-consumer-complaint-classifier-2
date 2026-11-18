@@ -1,0 +1,10 @@
+,predicted: Checking or savings account,predicted: Credit card,predicted: Credit reporting,predicted: Debt collection,predicted: Money transfer,predicted: Mortgage,predicted: Payday or personal loan,predicted: Student loan,predicted: Vehicle loan or lease
+actual: Checking or savings account,400,23,2,4,48,6,3,0,2
+actual: Credit card,37,531,32,21,20,2,9,0,8
+actual: Credit reporting,2,37,653,70,0,17,4,6,11
+actual: Debt collection,13,20,83,368,4,6,5,7,19
+actual: Money transfer,32,10,0,0,140,0,1,0,0
+actual: Mortgage,10,2,4,7,1,284,4,1,4
+actual: Payday or personal loan,2,3,1,3,3,1,33,3,10
+actual: Student loan,0,0,3,6,0,2,3,120,1
+actual: Vehicle loan or lease,3,5,13,11,2,4,8,2,118

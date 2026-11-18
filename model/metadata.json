@@ -1,0 +1,45 @@
+{
+  "best_model": "Logistic Regression",
+  "labels": [
+    "Checking or savings account",
+    "Credit card",
+    "Credit reporting",
+    "Debt collection",
+    "Money transfer",
+    "Mortgage",
+    "Payday or personal loan",
+    "Student loan",
+    "Vehicle loan or lease"
+  ],
+  "display_names": {
+    "Checking or savings account": "Checking / Savings",
+    "Credit card": "Credit Card",
+    "Credit reporting": "Credit Reporting",
+    "Debt collection": "Debt Collection",
+    "Money transfer": "Money Transfer",
+    "Mortgage": "Mortgage",
+    "Payday or personal loan": "Payday / Personal Loan",
+    "Student loan": "Student Loan",
+    "Vehicle loan or lease": "Vehicle Loan / Lease"
+  },
+  "n_features": 60000,
+  "dataset_rows": 16662,
+  "train_rows": 13329,
+  "test_rows": 3333,
+  "test_size": 0.2,
+  "random_state": 42,
+  "tfidf": {
+    "max_features": 60000,
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 3,
+    "max_df": 0.9,
+    "sublinear_tf": true
+  },
+  "trained_at_utc": "2026-11-18T04:31:55+00:00",
+  "python": "3.14.4",
+  "dataset_source": "https://www.consumerfinance.gov/data-research/consumer-complaints/",
+  "dataset_note": "Real complaints from the CFPB Consumer Complaint Database, sampled from a public mirror of the same database because the current official bulk CSV export no longer carries the consumer narrative text."
+}
